@@ -1,0 +1,97 @@
+{
+    "autoSpeed": 8,
+    "finishedAction": 1,
+    "homeHeight": 100,
+    "interests": [],
+    "isSaveEnergyMode": 0,
+    "loseAction": 0,
+    "maxSpeed": 15,
+    "points": [
+        {
+            "actions": [
+                {
+                    "param": 1,
+                    "speakInfo": "",
+                    "type": 2,
+                    "waitTime": 2
+                }
+            ],
+            "dampingDistance": 0,
+            "flightPathMode": 1,
+            "groupIndex": 0,
+            "heading": 0,
+            "headingMode": 0,
+            "height": 30,
+            "interestIndex": -1,
+            "lat": 39.9075,
+            "lng": 116.391,
+            "safeGohomeFlag": 0,
+            "speed": 8
+        },
+        {
+            "actions": [
+                {
+                    "param": 1,
+                    "speakInfo": "",
+                    "type": 2,
+                    "waitTime": 2
+                }
+            ],
+            "dampingDistance": 0,
+            "flightPathMode": 1,
+            "groupIndex": 0,
+            "heading": 0,
+            "headingMode": 0,
+            "height": 40,
+            "interestIndex": -1,
+            "lat": 39.9085,
+            "lng": 116.39200000000001,
+            "safeGohomeFlag": 0,
+            "speed": 8
+        },
+        {
+            "actions": [
+                {
+                    "param": 1,
+                    "speakInfo": "",
+                    "type": 2,
+                    "waitTime": 2
+                }
+            ],
+            "dampingDistance": 0,
+            "flightPathMode": 1,
+            "groupIndex": 0,
+            "heading": 0,
+            "headingMode": 0,
+            "height": 50,
+            "interestIndex": -1,
+            "lat": 39.9095,
+            "lng": 116.393,
+            "safeGohomeFlag": 0,
+            "speed": 8
+        },
+        {
+            "actions": [
+                {
+                    "param": 1,
+                    "speakInfo": "",
+                    "type": 2,
+                    "waitTime": 2
+                }
+            ],
+            "dampingDistance": 0,
+            "flightPathMode": 1,
+            "groupIndex": 0,
+            "heading": 0,
+            "headingMode": 0,
+            "height": 60,
+            "interestIndex": -1,
+            "lat": 39.9105,
+            "lng": 116.394,
+            "safeGohomeFlag": 0,
+            "speed": 8
+        }
+    ],
+    "securityHeight": 50,
+    "templateId": 0
+}

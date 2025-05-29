@@ -1,0 +1,4 @@
+/home/xiayang22331/Desktop/Workspace-psdk/DJI-Groundstation/DJI-CLI/build/CMakeFiles/rebuild_cache.dir
+/home/xiayang22331/Desktop/Workspace-psdk/DJI-Groundstation/DJI-CLI/build/CMakeFiles/edit_cache.dir
+/home/xiayang22331/Desktop/Workspace-psdk/DJI-Groundstation/DJI-CLI/build/CMakeFiles/dji-cli.dir
+/home/xiayang22331/Desktop/Workspace-psdk/DJI-Groundstation/DJI-CLI/build/CMakeFiles/imgui.dir
