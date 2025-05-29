@@ -21,13 +21,14 @@
 ---
 
 ## 🗄️ 目录结构
-├── config/ # JSON 配置 / 航线
-├── tasks/ # 线程 / 协议相关模块
-│ ├── modules/ # 解析、封装、UI 等
-│ └── utils/ # 网络通信、摇杆示例
-├── third_party/ # Protobuf 生成代码等
-├── common/ # 公共工具 & 类型
-├── vendor/imgui/ # ImGui 源码（已内置，不需额外下载）
+```text
+├── config/                 # JSON 配置 / 航线
+├── tasks/                  # 线程 / 协议相关模块
+│   ├── modules/            # 解析、封装、UI 等
+│   └── utils/              # 网络通信、摇杆示例
+├── third_party/            # Protobuf 生成代码等
+├── common/                 # 公共工具 & 类型
+├── vendor/imgui/           # ImGui 源码（已内置，无需额外下载）
 ├── CMakeLists.txt
 └── main.cpp
 
@@ -54,7 +55,7 @@ sudo apt install build-essential cmake libprotobuf-dev protobuf-compiler \
                  libglfw3-dev libgl1-mesa-dev
 
 # 2. 编译
-git clone https://github.com/your-name/dji-cli.git
+git clone https://github.com/xiayang-cmd/DJI-CLI.git
 cd dji-cli
 cmake -B build
 cmake --build build -j$(nproc)
