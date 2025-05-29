@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
 {
 
     // 0. 获取服务器配置
-    std::string cfgPath = "config/config.json";
+    std::string cfgPath = "../config/config.json";
 
     // 如果用户在命令行提供了路径，则覆盖默认值
     if (argc > 1) {
